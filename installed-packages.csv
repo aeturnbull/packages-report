@@ -1,0 +1,253 @@
+Package,LibPath,Version,Priority,Built
+abind,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.4-5,NA,3.6.0
+acepack,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.4.1,NA,3.6.0
+AER,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.2-8,NA,3.6.2
+arm,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.10-1,NA,3.6.1
+askpass,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.1,NA,3.6.0
+assertthat,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.2.1,NA,3.6.0
+backports,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.1.4,NA,3.6.0
+base64enc,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.1-3,NA,3.6.0
+beeswarm,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.2.3,NA,3.6.0
+BH,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.69.0-1,NA,3.6.0
+bitops,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.0-6,NA,3.6.0
+broom,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.5.2,NA,3.6.0
+callr,C:/Users/aturnbu2/Documents/R/win-library/3.6,3.2.0,NA,3.6.0
+car,C:/Users/aturnbu2/Documents/R/win-library/3.6,3.0-6,NA,3.6.0
+carData,C:/Users/aturnbu2/Documents/R/win-library/3.6,3.0-3,NA,3.6.1
+caret,C:/Users/aturnbu2/Documents/R/win-library/3.6,6.0-84,NA,3.6.2
+caTools,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.17.1.3,NA,3.6.2
+cellranger,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.1.0,NA,3.6.0
+checkmate,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.9.3,NA,3.6.0
+cli,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.1.0,NA,3.6.0
+clipr,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.6.0,NA,3.6.0
+clisymbols,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.2.0,NA,3.6.0
+cmprsk,C:/Users/aturnbu2/Documents/R/win-library/3.6,2.2-8,NA,3.6.0
+coda,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.19-3,NA,3.6.1
+colorspace,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.4-1,NA,3.6.0
+cowplot,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.9.4,NA,3.6.0
+crayon,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.3.4,NA,3.6.0
+curl,C:/Users/aturnbu2/Documents/R/win-library/3.6,3.3,NA,3.6.0
+cvAUC,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.1.0,NA,3.6.2
+data.table,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.12.2,NA,3.6.0
+DBI,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.0.0,NA,3.6.0
+dbplyr,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.4.0,NA,3.6.0
+DEoptimR,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.0-8,NA,3.6.0
+desc,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.2.0,NA,3.6.0
+devtools,C:/Users/aturnbu2/Documents/R/win-library/3.6,2.0.2,NA,3.6.0
+digest,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.6.19,NA,3.6.0
+dplyr,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.8.1,NA,3.6.0
+e1071,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.7-1,NA,3.6.0
+earth,C:/Users/aturnbu2/Documents/R/win-library/3.6,5.1.2,NA,3.6.2
+ellipsis,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.1.0,NA,3.6.0
+evaluate,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.14,NA,3.6.0
+exact2x2,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.6.3.1,NA,3.6.1
+exactci,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.3-3,NA,3.6.0
+exactRankTests,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.8-30,NA,3.6.0
+expm,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.999-4,NA,3.6.2
+fansi,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.4.0,NA,3.6.0
+fit.models,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.5-14,NA,3.6.0
+forcats,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.4.0,NA,3.6.0
+foreach,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.4.7,NA,3.6.2
+Formula,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.2-3,NA,3.6.0
+fs,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.3.1,NA,3.6.2
+gam,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.16.1,NA,3.6.2
+gdata,C:/Users/aturnbu2/Documents/R/win-library/3.6,2.18.0,NA,3.6.0
+generics,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.0.2,NA,3.6.0
+ggbeeswarm,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.6.0,NA,3.6.1
+ggjoy,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.4.1,NA,3.6.1
+ggplot2,C:/Users/aturnbu2/Documents/R/win-library/3.6,3.2.1,NA,3.6.2
+ggpubr,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.2.1,NA,3.6.0
+ggrepel,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.8.1,NA,3.6.0
+ggridges,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.5.1,NA,3.6.1
+ggsci,C:/Users/aturnbu2/Documents/R/win-library/3.6,2.9,NA,3.6.0
+ggsignif,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.5.0,NA,3.6.0
+gh,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.0.1,NA,3.6.0
+git2r,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.25.2,NA,3.6.0
+glmnet,C:/Users/aturnbu2/Documents/R/win-library/3.6,3.0-2,NA,3.6.2
+glue,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.3.1,NA,3.6.0
+gmodels,C:/Users/aturnbu2/Documents/R/win-library/3.6,2.18.1,NA,3.6.0
+gower,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.2.1,NA,3.6.1
+gplots,C:/Users/aturnbu2/Documents/R/win-library/3.6,3.0.1.1,NA,3.6.2
+gridExtra,C:/Users/aturnbu2/Documents/R/win-library/3.6,2.3,NA,3.6.0
+gsl,C:/Users/aturnbu2/Documents/R/win-library/3.6,2.1-6,NA,3.6.0
+gtable,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.3.0,NA,3.6.0
+gtools,C:/Users/aturnbu2/Documents/R/win-library/3.6,3.8.1,NA,3.6.0
+haven,C:/Users/aturnbu2/Documents/R/win-library/3.6,2.1.0,NA,3.6.0
+here,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.1,NA,3.6.0
+highr,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.8,NA,3.6.0
+Hmisc,C:/Users/aturnbu2/Documents/R/win-library/3.6,4.2-0,NA,3.6.0
+hms,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.4.2,NA,3.6.0
+htmlTable,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.13.1,NA,3.6.0
+htmltools,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.3.6,NA,3.6.0
+htmlwidgets,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.3,NA,3.6.0
+httr,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.4.0,NA,3.6.0
+ini,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.3.1,NA,3.6.0
+ipred,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.9-9,NA,3.6.2
+iterators,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.0.12,NA,3.6.2
+janitor,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.2.0,NA,3.6.0
+jsonlite,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.6,NA,3.6.0
+kableExtra,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.1.0,NA,3.6.0
+km.ci,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.5-2,NA,3.6.0
+KMsurv,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.1-5,NA,3.6.0
+knitr,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.23,NA,3.6.0
+labeling,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.3,NA,3.6.0
+labelled,C:/Users/aturnbu2/Documents/R/win-library/3.6,2.2.1,NA,3.6.0
+latticeExtra,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.6-28,NA,3.6.0
+lava,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.6.6,NA,3.6.2
+lavaan,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.6-5,NA,3.6.1
+lazyeval,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.2.2,NA,3.6.0
+lme4,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.1-21,NA,3.6.0
+lmerTest,C:/Users/aturnbu2/Documents/R/win-library/3.6,3.1-0,NA,3.6.0
+lmtest,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.9-37,NA,3.6.0
+lsr,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.5,NA,3.6.0
+lubridate,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.7.4,NA,3.6.0
+magrittr,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.5,NA,3.6.0
+maptools,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.9-9,NA,3.6.2
+markdown,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.0,NA,3.6.0
+matrixcalc,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.0-3,NA,3.6.0
+MatrixModels,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.4-1,NA,3.6.2
+maxstat,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.7-25,NA,3.6.0
+MBESS,C:/Users/aturnbu2/Documents/R/win-library/3.6,4.6.0,NA,3.6.1
+memoise,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.1.0,NA,3.6.0
+mi,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.0,NA,3.6.1
+mime,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.7,NA,3.6.0
+minqa,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.2.4,NA,3.6.0
+mitools,C:/Users/aturnbu2/Documents/R/win-library/3.6,2.4,NA,3.6.0
+mnormt,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.5-5,NA,3.6.0
+ModelMetrics,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.2.2,NA,3.6.2
+modelr,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.1.4,NA,3.6.0
+msm,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.6.8,NA,3.6.2
+munsell,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.5.0,NA,3.6.0
+mvtnorm,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.0-11,NA,3.6.0
+nloptr,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.2.1,NA,3.6.0
+nnls,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.4,NA,3.6.0
+numDeriv,C:/Users/aturnbu2/Documents/R/win-library/3.6,2016.8-1,NA,3.6.0
+OpenMx,C:/Users/aturnbu2/Documents/R/win-library/3.6,2.14.11,NA,3.6.1
+openssl,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.3,NA,3.6.0
+openxlsx,C:/Users/aturnbu2/Documents/R/win-library/3.6,4.1.4,NA,3.6.2
+pbivnorm,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.6.0,NA,3.6.0
+pbkrtest,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.4-7,NA,3.6.2
+pcaPP,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.9-73,NA,3.6.0
+pillar,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.4.1,NA,3.6.0
+pkgbuild,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.0.3,NA,3.6.0
+pkgconfig,C:/Users/aturnbu2/Documents/R/win-library/3.6,2.0.2,NA,3.6.0
+pkgload,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.0.2,NA,3.6.0
+plogr,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.2.0,NA,3.6.0
+plotmo,C:/Users/aturnbu2/Documents/R/win-library/3.6,3.5.6,NA,3.6.2
+plotrix,C:/Users/aturnbu2/Documents/R/win-library/3.6,3.7-7,NA,3.6.1
+plyr,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.8.4,NA,3.6.0
+polynom,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.4-0,NA,3.6.0
+prettyunits,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.0.2,NA,3.6.0
+processx,C:/Users/aturnbu2/Documents/R/win-library/3.6,3.3.1,NA,3.6.0
+prodlim,C:/Users/aturnbu2/Documents/R/win-library/3.6,2019.11.13,NA,3.6.2
+progress,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.2.2,NA,3.6.0
+ps,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.3.0,NA,3.6.0
+purrr,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.3.2,NA,3.6.0
+pwr,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.2-2,NA,3.6.1
+quantreg,C:/Users/aturnbu2/Documents/R/win-library/3.6,5.54,NA,3.6.2
+qwraps2,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.4.1,NA,3.6.1
+R6,C:/Users/aturnbu2/Documents/R/win-library/3.6,2.4.0,NA,3.6.0
+randomForest,C:/Users/aturnbu2/Documents/R/win-library/3.6,4.6-14,NA,3.6.2
+ranger,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.11.2,NA,3.6.2
+rcmdcheck,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.3.3,NA,3.6.0
+RColorBrewer,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.1-2,NA,3.6.0
+Rcpp,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.0.1,NA,3.6.0
+RcppArmadillo,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.9.600.4.0,NA,3.6.1
+RcppEigen,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.3.3.5.0,NA,3.6.0
+readr,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.3.1,NA,3.6.0
+readxl,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.3.1,NA,3.6.0
+recipes,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.1.8,NA,3.6.2
+rematch,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.0.1,NA,3.6.0
+remotes,C:/Users/aturnbu2/Documents/R/win-library/3.6,2.0.4,NA,3.6.0
+reprex,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.3.0,NA,3.6.0
+reshape2,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.4.3,NA,3.6.0
+RhpcBLASctl,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.18-205,NA,3.6.0
+rio,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.5.16,NA,3.6.2
+rlang,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.4.2,NA,3.6.2
+rmarkdown,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.13,NA,3.6.0
+rmutil,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.1.3,NA,3.6.0
+robust,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.4-18,NA,3.6.0
+robustbase,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.93-5,NA,3.6.0
+ROCR,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.0-7,NA,3.6.2
+rpf,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.62,NA,3.6.1
+rprojroot,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.3-2,NA,3.6.0
+rrcov,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.4-7,NA,3.6.0
+rstudioapi,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.10,NA,3.6.0
+rticles,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.8,NA,3.6.0
+rvest,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.3.4,NA,3.6.0
+sandwich,C:/Users/aturnbu2/Documents/R/win-library/3.6,2.5-1,NA,3.6.0
+scales,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.0.0,NA,3.6.0
+selectr,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.4-1,NA,3.6.0
+sem,C:/Users/aturnbu2/Documents/R/win-library/3.6,3.1-9,NA,3.6.1
+semTools,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.5-2,NA,3.6.1
+sessioninfo,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.1.1,NA,3.6.0
+shape,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.4.4,NA,3.6.0
+snakecase,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.11.0,NA,3.6.0
+sp,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.3-2,NA,3.6.2
+SparseM,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.78,NA,3.6.2
+SQUAREM,C:/Users/aturnbu2/Documents/R/win-library/3.6,2017.10-1,NA,3.6.0
+ssanv,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.1,NA,3.6.0
+StanHeaders,C:/Users/aturnbu2/Documents/R/win-library/3.6,2.19.0,NA,3.6.1
+stringi,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.4.3,NA,3.6.0
+stringr,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.4.0,NA,3.6.0
+SuperLearner,C:/Users/aturnbu2/Documents/R/win-library/3.6,2.0-26,NA,3.6.2
+survey,C:/Users/aturnbu2/Documents/R/win-library/3.6,3.36,NA,3.6.0
+survminer,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.4.4.999,NA,3.6.0
+survMisc,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.5.5,NA,3.6.0
+sys,C:/Users/aturnbu2/Documents/R/win-library/3.6,3.2,NA,3.6.0
+tableone,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.10.0,NA,3.6.0
+TeachingDemos,C:/Users/aturnbu2/Documents/R/win-library/3.6,2.10,NA,3.6.2
+tibble,C:/Users/aturnbu2/Documents/R/win-library/3.6,2.1.1,NA,3.6.0
+tidyr,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.8.3,NA,3.6.0
+tidyselect,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.2.5,NA,3.6.0
+tidyverse,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.2.1,NA,3.6.0
+timeDate,C:/Users/aturnbu2/Documents/R/win-library/3.6,3043.102,NA,3.6.0
+tinytex,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.13,NA,3.6.0
+usethis,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.5.1,NA,3.6.2
+utf8,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.1.4,NA,3.6.0
+vctrs,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.1.0,NA,3.6.0
+vipor,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.4.5,NA,3.6.1
+viridis,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.5.1,NA,3.6.0
+viridisLite,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.3.0,NA,3.6.0
+webshot,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.5.1,NA,3.6.0
+whisker,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.3-2,NA,3.6.0
+withr,C:/Users/aturnbu2/Documents/R/win-library/3.6,2.1.2,NA,3.6.0
+xfun,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.7,NA,3.6.0
+xgboost,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.90.0.2,NA,3.6.2
+xml2,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.2.0,NA,3.6.0
+xopen,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.0.0,NA,3.6.0
+xtable,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.8-4,NA,3.6.0
+yaml,C:/Users/aturnbu2/Documents/R/win-library/3.6,2.2.0,NA,3.6.0
+zeallot,C:/Users/aturnbu2/Documents/R/win-library/3.6,0.1.0,NA,3.6.0
+zip,C:/Users/aturnbu2/Documents/R/win-library/3.6,2.0.4,NA,3.6.1
+zoo,C:/Users/aturnbu2/Documents/R/win-library/3.6,1.8-6,NA,3.6.0
+base,C:/Program Files/R/R-3.6.0/library,3.6.0,base,3.6.0
+boot,C:/Program Files/R/R-3.6.0/library,1.3-22,recommended,3.6.0
+class,C:/Program Files/R/R-3.6.0/library,7.3-15,recommended,3.6.0
+cluster,C:/Program Files/R/R-3.6.0/library,2.0.8,recommended,3.6.0
+codetools,C:/Program Files/R/R-3.6.0/library,0.2-16,recommended,3.6.0
+compiler,C:/Program Files/R/R-3.6.0/library,3.6.0,base,3.6.0
+datasets,C:/Program Files/R/R-3.6.0/library,3.6.0,base,3.6.0
+foreign,C:/Program Files/R/R-3.6.0/library,0.8-71,recommended,3.6.0
+graphics,C:/Program Files/R/R-3.6.0/library,3.6.0,base,3.6.0
+grDevices,C:/Program Files/R/R-3.6.0/library,3.6.0,base,3.6.0
+grid,C:/Program Files/R/R-3.6.0/library,3.6.0,base,3.6.0
+KernSmooth,C:/Program Files/R/R-3.6.0/library,2.23-15,recommended,3.6.0
+lattice,C:/Program Files/R/R-3.6.0/library,0.20-38,recommended,3.6.0
+MASS,C:/Program Files/R/R-3.6.0/library,7.3-51.4,recommended,3.6.0
+Matrix,C:/Program Files/R/R-3.6.0/library,1.2-17,recommended,3.6.0
+methods,C:/Program Files/R/R-3.6.0/library,3.6.0,base,3.6.0
+mgcv,C:/Program Files/R/R-3.6.0/library,1.8-28,recommended,3.6.0
+nlme,C:/Program Files/R/R-3.6.0/library,3.1-139,recommended,3.6.0
+nnet,C:/Program Files/R/R-3.6.0/library,7.3-12,recommended,3.6.0
+parallel,C:/Program Files/R/R-3.6.0/library,3.6.0,base,3.6.0
+rpart,C:/Program Files/R/R-3.6.0/library,4.1-15,recommended,3.6.0
+spatial,C:/Program Files/R/R-3.6.0/library,7.3-11,recommended,3.6.0
+splines,C:/Program Files/R/R-3.6.0/library,3.6.0,base,3.6.0
+stats,C:/Program Files/R/R-3.6.0/library,3.6.0,base,3.6.0
+stats4,C:/Program Files/R/R-3.6.0/library,3.6.0,base,3.6.0
+survival,C:/Program Files/R/R-3.6.0/library,2.44-1.1,recommended,3.6.0
+tcltk,C:/Program Files/R/R-3.6.0/library,3.6.0,base,3.6.0
+tools,C:/Program Files/R/R-3.6.0/library,3.6.0,base,3.6.0
+translations,C:/Program Files/R/R-3.6.0/library,3.6.0,NA,3.6.0
+utils,C:/Program Files/R/R-3.6.0/library,3.6.0,base,3.6.0
