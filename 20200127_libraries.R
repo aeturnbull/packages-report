@@ -1,3 +1,4 @@
+library(tidyverse)
 dta<-as_tibble(installed.packages())
 
 ## optional: select just some of the variables, such as
