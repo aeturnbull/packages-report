@@ -7,7 +7,7 @@ aturnbu2
 library(tidyverse)
 ```
 
-    ## -- Attaching packages ------------------------------------------------------------------ tidyverse 1.2.1 --
+    ## -- Attaching packages ------------------------------------------ tidyverse 1.2.1 --
 
     ## v ggplot2 3.2.1     v purrr   0.3.2
     ## v tibble  2.1.1     v dplyr   0.8.1
@@ -16,7 +16,7 @@ library(tidyverse)
 
     ## Warning: package 'ggplot2' was built under R version 3.6.2
 
-    ## -- Conflicts --------------------------------------------------------------------- tidyverse_conflicts() --
+    ## -- Conflicts --------------------------------------------- tidyverse_conflicts() --
     ## x dplyr::filter() masks stats::filter()
     ## x dplyr::lag()    masks stats::lag()
 
@@ -36,5 +36,28 @@ dta<-dta %>% select(Package, LibPath, Version, Priority, Built)
 ## hint: readr::write_csv() or write.table()
 ## idea: try using here::here() to create the file path
 
-readr::write_csv(dta, here::here("installed-packages.csv"))
+readr::write_csv(dta, here::here("data", "installed-packages.csv"))
+
+apt <- dta %>%
+  filter(is.na(Priority)) %>%
+  select(Package, Built)
+
+apt_freqtable <- apt %>%
+  count(Built) %>%
+  mutate(prop = n / sum(n))
+
+readr::write_csv(apt_freqtable, here::here("data", "add-on-packages-freqtable.csv"))
+
+
+## if you use ggplot2, code like this will work:
+ggplot(apt_freqtable, aes(x = Built, y = n)) +
+  geom_col()
 ```
+
+![](20200127_libraries_files/figure-gfm/unnamed-chunk-1-1.png)<!-- -->
+
+``` r
+ggsave(here::here("figs", "built-barchart.png"))
+```
+
+    ## Saving 7 x 5 in image
